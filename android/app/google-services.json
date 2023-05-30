@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "552404441713",
+    "project_id": "thunder-chat-a859a",
+    "storage_bucket": "thunder-chat-a859a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552404441713:android:68a425934624d2f3c019d0",
+        "android_client_info": {
+          "package_name": "co.Himanshu.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "552404441713-e0h4d5n4v5k0i6kckbqvio6ke2vgufst.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZRngEijiFmMGpijo9dVnAnuN-S89iHUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "552404441713-e0h4d5n4v5k0i6kckbqvio6ke2vgufst.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
